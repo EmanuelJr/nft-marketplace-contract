@@ -1,0 +1,17 @@
+{
+  "name": "marketplace-contract",
+  "version": "1.0.0",
+  "description": "A simple NFT marketplace contract",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "author": "Emanuel Júnior",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.7"
+  }
+}
